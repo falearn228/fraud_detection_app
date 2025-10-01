@@ -158,6 +158,8 @@ docker exec -it kafka kafka-console-consumer.sh \
 
 ### Структура сертификатов
 
+Нужно создать самому
+
 ```
 ssl/
 ├── ca-cert.pem          # Корневой сертификат CA
