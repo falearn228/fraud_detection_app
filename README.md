@@ -346,9 +346,6 @@ fraud_detection_app/
 # Установить зависимости
 go mod download
 
-# Запустить зависимости через Docker
-docker-compose up -d postgres kafka
-
-# Запустить приложение локально
-go run cmd/main.go
+# Запустить через Docker
+docker-compose up -d
 ```
