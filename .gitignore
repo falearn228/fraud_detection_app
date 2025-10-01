@@ -1,0 +1,22 @@
+# Certificate files
+*.jks
+*.p12
+*.crt
+*.key
+creds
+
+# Build artifacts
+bin/
+*.exe
+
+# Go modules
+go.sum
+
+# IDE files
+.vscode/
+.idea/
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db

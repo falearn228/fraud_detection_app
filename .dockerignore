@@ -1,0 +1,11 @@
+Dockerfile
+docker-compose.yml
+.dockerignore
+.git
+.gitignore
+README.md
+.env
+.nyc_output
+coverage
+.coverage
+node_modules
